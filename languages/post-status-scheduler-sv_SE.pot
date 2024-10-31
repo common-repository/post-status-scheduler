@@ -1,0 +1,199 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: post-status-scheduler\n"
+"POT-Creation-Date: 2017-05-18 10:10+0200\n"
+"PO-Revision-Date: 2016-07-01 21:55+0200\n"
+"Last-Translator: Andeas Färnstrand <andreas@farnstranddev.se>\n"
+"Language-Team: andreas@farnstranddev.se\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/email.php:25
+msgid "Post Status Scheduler update"
+msgstr ""
+
+#: classes/email.php:33
+msgid "A scheduled update has been executed at"
+msgstr ""
+
+#: classes/email.php:33
+msgid "on your post"
+msgstr ""
+
+#: classes/email.php:34
+msgid "Regards"
+msgstr ""
+
+#: classes/scheduler.php:561
+msgid "Schedule Status Change"
+msgstr ""
+
+#: classes/scheduler.php:563
+msgid "Date"
+msgstr ""
+
+#: classes/scheduler.php:565
+msgid "Time"
+msgstr ""
+
+#: classes/scheduler.php:569
+msgid "Change status"
+msgstr ""
+
+#: classes/scheduler.php:571
+msgid "Set status to"
+msgstr ""
+
+#: classes/scheduler.php:588 classes/scheduler.php:594
+msgid "Stick"
+msgstr ""
+
+#: classes/scheduler.php:590 classes/scheduler.php:592
+msgid "Unstick"
+msgstr ""
+
+#: classes/scheduler.php:607
+msgid "Change categories and tags"
+msgstr ""
+
+#: classes/scheduler.php:609
+msgid "The post will have the following categories on scheduled time"
+msgstr ""
+
+#: classes/scheduler.php:641 classes/settings.php:392
+msgid "Categories"
+msgstr ""
+
+#: classes/scheduler.php:665 classes/settings.php:395
+msgid "Tags"
+msgstr ""
+
+#: classes/scheduler.php:690
+msgid "Remove postmeta"
+msgstr ""
+
+#: classes/scheduler.php:720
+msgid "Send email notification on change"
+msgstr ""
+
+#: classes/scheduler.php:745
+msgid "Scheduled date"
+msgstr ""
+
+#: classes/scheduler.php:951
+msgid "Draft"
+msgstr ""
+
+#: classes/scheduler.php:952
+msgid "Pending"
+msgstr ""
+
+#: classes/scheduler.php:953
+msgid "Private"
+msgstr ""
+
+#: classes/scheduler.php:954
+msgid "Trashbin"
+msgstr ""
+
+#: classes/scheduler.php:955
+msgid "Delete (forced)"
+msgstr ""
+
+#: classes/settings.php:44 classes/settings.php:62
+msgid "Post Status Scheduler"
+msgstr ""
+
+#: classes/settings.php:91
+msgid "Post Types and meta keys"
+msgstr ""
+
+#: classes/settings.php:98
+msgid "Check the post types you wish to display the Scheduler on"
+msgstr ""
+
+#: classes/settings.php:106
+msgid ""
+"Check the post types you wish Stick/Unstick functionality on. Normally only "
+"post."
+msgstr ""
+
+#: classes/settings.php:114
+msgid "Mark allowed meta fields to be shown as removable"
+msgstr ""
+
+#: classes/settings.php:122
+msgid "Enable showing of both categories and tags or just one of them"
+msgstr ""
+
+#: classes/settings.php:133
+msgid "Notification"
+msgstr ""
+
+#: classes/settings.php:140
+msgid "Enable email notification option"
+msgstr ""
+
+#: classes/settings.php:151
+msgid "Extra column"
+msgstr ""
+
+#: classes/settings.php:158
+msgid "Enable extra column on posttype edit page"
+msgstr ""
+
+#: classes/settings.php:245
+msgid "Enter your settings below:"
+msgstr ""
+
+#: classes/settings.php:255
+msgid ""
+"Enabling this option makes it possible to send an email notification to the "
+"post author on a scheduled change execution."
+msgstr ""
+
+#: classes/settings.php:265
+msgid ""
+"Settings for adding extra column \"Scheduled date\" on edit page. This "
+"column will only be displayed on posttypes that are allowed for scheduling"
+msgstr ""
+
+#: classes/settings.php:389
+msgid "Both"
+msgstr ""
+
+#~ msgid "Change categories"
+#~ msgstr "Ändra kategorier"
+
+#~ msgid "Email notification settings:"
+#~ msgstr "Inställningar för epostnotifiering"
+
+#~ msgid "Post Types"
+#~ msgstr "Posttyper"
+
+#~ msgid "Email subject"
+#~ msgstr "Epostämne"
+
+#~ msgid "Email body"
+#~ msgstr "Epostmeddelande"
+
+#~ msgid ""
+#~ "Edit the email settings used by the notification email on a scheduled "
+#~ "change:"
+#~ msgstr "Ändra epostinställningarna som används vid notifikationsepost"
+
+#~ msgid "Add or remove category"
+#~ msgstr "Lägg till eller ta bort kategori"
+
+#~ msgid "Add"
+#~ msgstr "Lägg till"
+
+#~ msgid "Remove"
+#~ msgstr "Ta bort"
